@@ -38,6 +38,9 @@ import scala.io.StdIn
             
         var m= formatnames(toUpper,j,k)
         println(m)
+
+        var i= formatnames(toLower,j,k)
+        println(i)
     }  
  
   }
